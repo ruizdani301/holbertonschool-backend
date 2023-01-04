@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Module that uses user locale"""
+"""
+    Module that uses user locale
+"""
 
 
 from flask import Flask, request, render_template, g

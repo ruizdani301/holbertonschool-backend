@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Module that forces locale with URL parameter"""
+"""
+    Module that forces locale with URL parameter
+"""
 from flask import Flask, request, render_template
 from flask_babel import Babel
 from os import getenv

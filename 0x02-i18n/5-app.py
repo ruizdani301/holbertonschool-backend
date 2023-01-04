@@ -1,7 +1,7 @@
-
-
 #!/usr/bin/env python3
-"""Module that mocks the login"""
+"""
+    Module that mocks the login
+"""
 
 
 from flask import Flask, request, render_template, g
